@@ -7,7 +7,7 @@ import warnings
 import time
 import io
 
-#Ini diperlukan untuk memakai cairosvg
+#Ini diperlukan untuk memakai cairosvg (hanya untuk pengguna jendela)
 os.environ["path"] += r";C:\Program Files\UniConvertor-2.0rc5\dlls"
 
 import customtkinter as ctk
