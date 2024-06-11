@@ -1,4 +1,4 @@
-#This program is not belong to me, only for reference
+#This code below is not belong to me, only for reference
 
 from abc import ABC, abstractmethod
 import os
